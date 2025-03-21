@@ -1,6 +1,6 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&desc=Jiyeon's%20Github🍀%20&fontSize=70&descSize=40&fontColor=ffffff&fontAlignY=30)
 
-<div align=center>
   <h2>🛠️ Skills</h2>
   <h4>🌱Main (Front-End)</h4>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
