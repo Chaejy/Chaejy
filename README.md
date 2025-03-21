@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!&desc=This%20is%20Jiyeon's%20Github%20&fontSize=80&descSize=40&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500§ion=header&text=Welcome!&desc=This%20is%20Jiyeon's%20Github%20&fontSize=80&descSize=40&fontColor=ffffff&fontAlignY=40)
