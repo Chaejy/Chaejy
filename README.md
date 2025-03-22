@@ -25,5 +25,5 @@
   <br>
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
-
+<br/>
 
