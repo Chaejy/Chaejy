@@ -14,7 +14,7 @@
   <br>
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
-  <br><br>
+  <br/><br/>
   <h4>App Frontend</h4>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
