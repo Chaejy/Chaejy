@@ -1,8 +1,8 @@
-<p align='center'>
+<div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&desc=Jiyeon's%20Github🍀%20&fontSize=70&descSize=40&fontColor=ffffff&fontAlignY=30" />
-</p>
+</div>
 
-<p align='center'>
+<div align='center'>
   <h2>🛠️Skills🛠️</h2>
   <h4>Main (Web Frontend)</h4>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-</p>
+</div>
 
 
