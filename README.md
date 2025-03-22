@@ -18,11 +18,6 @@
   <h4>App Frontend</h4>
   <img src="https://img.shields.io/badge/retrofit-23009020?style=for-the-badge&logo=Retrofit&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
 <br/>
 
