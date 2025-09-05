@@ -19,5 +19,13 @@
   <img src="https://img.shields.io/badge/retrofit-23009020?style=for-the-badge&logo=Retrofit&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
 </div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Chaejy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Chaejy"
+  width="600"
+  height="300"
+/>
+</a>
 <br/>
 
