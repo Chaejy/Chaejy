@@ -3,21 +3,23 @@
 
 ### Hi, I'm **Jiyeon** 👋🏻
 
-**끊기지 않는 사용자 경험, 막힘 없는 개발자 경험**에 진심을 다합니다.</br>
-변화에 능동적으로 반응하고, 새로운 맥락에 빠르게 적응하는 **프론트엔드 개발자 채지연**입니다.
+끊김 없는 **사용자 경험**과 효율적인 **개발 경험**을 만듭니다.  
+끊임없이 도전하고 끝까지 **완성**해내는 프론트엔드 개발자 채지연입니다.
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
 <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=flat-square&logo=turborepo&logoColor=white"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </br>
+
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38.svg?style=flat-square&logo=zustand&logoColor=white"/>
 <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack Query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/>
 <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785.svg?style=flat-square&logo=storybook&logoColor=white"/>
 </br>
+
 <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=flat-square&logo=playwright&logoColor=white"/>
 <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?style=flat-square&logo=pnpm&logoColor=white"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white"/>
