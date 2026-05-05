@@ -1,32 +1,36 @@
-<div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&desc=Jiyeon's%20Github🍀%20&fontSize=70&descSize=40&fontColor=ffffff&fontAlignY=30" />
+<!-- Profile README -->
+<div align="left">
+
+### Hi, I'm **Jiyeon** 👋🏻
+
+사용자의 경험과 개발자의 경험을 함께 설계하는 프론트엔드 개발자 채지연입니다.
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+<img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=flat-square&logo=turborepo&logoColor=white"/>
+</br>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38.svg?style=flat-square&logo=zustand&logoColor=white"/>
+<img alt="TanStack Query" src="https://img.shields.io/badge/TanStack Query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/>
+<img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785.svg?style=flat-square&logo=storybook&logoColor=white"/>
+</br>
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=flat-square&logo=playwright&logoColor=white"/>
+<img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?style=flat-square&logo=pnpm&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
 </div>
 
-<div align='center'>
-  <h2>🛠️Skills🛠️</h2>
-  <h4>Main (Web Frontend)</h4>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Nextjs&logoColor=black" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=Typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+</br>
 
-  <br/>
-  <h4>App Frontend</h4>
-  <img src="https://img.shields.io/badge/retrofit-23009020?style=for-the-badge&logo=Retrofit&logoColor=white" />
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" />
-  <br/><br/><br/>
+### Activities
 
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Chaejy&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/Chaejy"
-      width="500"
-      height="250"
-      align
-    />
-  </a>
-</div>
+- `2025.09 – Present` &nbsp; TAVE Makers · Frontend Lead
+- `2025.02 – 2025.08` &nbsp; TAVE · Web Lead
+- `2024.09 – 2025.02` &nbsp; TAVE · Web Member
+- `2024.03 – 2025.02` &nbsp; SMWU 프로그래밍 중앙동아리 SOLUX · Frontend Member
+- `2023.09 – 2025.02` &nbsp; SMWU 데이터 분석 동아리 DACOS
+- `2023.10 – 2024.06` &nbsp; Google Developer Groups on Campus Sookmyung
+- `2023.07 – 2024.06` &nbsp; SMWU 통계학회 Sooktat
