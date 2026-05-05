@@ -3,8 +3,8 @@
 
 ### Hi, I'm **Jiyeon** 👋🏻
 
-끊기지 않는 사용자 경험, 막힘 없는 개발자 경험에 진심을 다합니다.</br>
-변화에 능동적으로 반응하고, 새로운 맥락에 빠르게 적응하는 프론트엔드 개발자 채지연입니다.
+**끊기지 않는 사용자 경험, 막힘 없는 개발자 경험**에 진심을 다합니다.</br>
+변화에 능동적으로 반응하고, 새로운 맥락에 빠르게 적응하는 **프론트엔드 개발자 채지연**입니다.
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
