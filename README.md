@@ -6,20 +6,23 @@
 끊김 없는 **사용자 경험**과 효율적인 **개발 경험**을 만듭니다.  
 끊임없이 도전하고 끝까지 **완성**해내는 프론트엔드 개발자 채지연입니다.
 
+<!-- 언어 + 프레임워크 -->
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
-<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
-<img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=flat-square&logo=turborepo&logoColor=white"/>
+<img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
+<img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?style=flat-square&logo=expo&logoColor=white"/>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </br>
-
+<!-- 빌드 + 스타일 + 상태 + 데이터 -->
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+<img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=flat-square&logo=turborepo&logoColor=white"/>
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38.svg?style=flat-square&logo=zustand&logoColor=white"/>
 <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack Query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white"/>
-<img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785.svg?style=flat-square&logo=storybook&logoColor=white"/>
 </br>
-
+<!-- 테스트 + 인프라 -->
+<img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785.svg?style=flat-square&logo=storybook&logoColor=white"/>
 <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=flat-square&logo=playwright&logoColor=white"/>
 <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?style=flat-square&logo=pnpm&logoColor=white"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?style=flat-square&logo=githubactions&logoColor=white"/>
