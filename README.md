@@ -49,4 +49,6 @@
 
 ### Contributions
 
+- `eslint/eslint` &nbsp; [test: add error locations to no-unreachable](https://github.com/eslint/eslint/pull/21151)
+- `eslint/eslint` &nbsp; [test: add error locations to no-undef](https://github.com/eslint/eslint/pull/21147)
 - `eslint/code-explorer` &nbsp; [chore: add allowScripts field to package.json](https://github.com/eslint/code-explorer/pull/489)
