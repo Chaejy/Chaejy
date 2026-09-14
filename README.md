@@ -36,7 +36,7 @@
 - `2026.07 – 2026.10` &nbsp; **OSSCA** · ESLint/ESLint Community (참여형) [🔗](https://www.contribution.ac/)
 - `2026.04 – 2026.06` &nbsp; **OSSCA** · JavaScript Docs Translation (체험형) [🔗](https://www.contribution.ac/2026-ossca-apply-01)
 - `2025.09 – 2026.08` &nbsp; **TAVE Makers** · Frontend Lead (대학생 IT 연합 동아리) [🔗](https://github.com/Tave-Makers/SURF-FE)
-- `2025.09 – 2026.03` &nbsp; **LG U+ URECA SW Bootcamp** · Frontend [🔗](https://www.youtube.com/watch?v=rv2zTf8edtI)
+- `2025.08 – 2026.03` &nbsp; **LG U+ URECA SW Bootcamp** · Frontend [🔗](https://www.youtube.com/watch?v=rv2zTf8edtI)
 - `2025.04 – 2025.11` &nbsp; **ICT Mentoring** · Frontend (한이음 드림업 CV·LLM 기반 임산부 응급대처 서비스) [🔗](https://www.hanium.or.kr/portal/business/ict/mainOverview.do)
 - `2025.02 – 2025.08` &nbsp; **TAVE** · Web Lead [🔗](https://www.tave-wave.com/)
 - `2024.09 – 2025.02` &nbsp; **TAVE** · Web Member [🔗](https://www.tave-wave.com/)
